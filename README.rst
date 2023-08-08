@@ -245,6 +245,10 @@ Hotkeys
 +--------------------+--------------------------------------------+
 | Ctrl + d           | Copy the current label and rect box        |
 +--------------------+--------------------------------------------+
+| Ctrl + c           | Copy all bounding boxes                    |
++--------------------+--------------------------------------------+
+| Ctrl + v           | Paste all bounding boxes from previous     |
++--------------------+--------------------------------------------+
 | Ctrl + Shift + d   | Delete the current image                   |
 +--------------------+--------------------------------------------+
 | Space              | Flag the current image as verified         |
